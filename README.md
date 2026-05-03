@@ -48,13 +48,3 @@ This project simulates how a professional margin account operates. Unlike a stat
 ```
 
 ---
-
-### How to add this to your project:
-1.  Create a new file in your folder named `README.md`.
-2.  Paste the content above into the file.
-3.  Run the following commands in your terminal:
-    ```bash
-    git add README.md
-    git commit -m "Add professional README"
-    git push
-```
